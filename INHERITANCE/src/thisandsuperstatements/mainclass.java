@@ -1,0 +1,11 @@
+package thisandsuperstatements;
+
+class mainclass
+{
+	public static void main(String[] args) 
+	{
+		Son s=new Son();
+		s.display();
+		
+	}
+}
